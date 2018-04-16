@@ -4,7 +4,7 @@
 2. Create a separate metadata file that provides a summary description of each of the trait columns.
 
 
-# Unix Command line exercise continuation...
+# Unix command line exercise continuation...
 These exercises are designed to further test you unix skill. To satrt with, you will need to download the data from `https://github.com/bixcop18/module1_exercises` into a directory you have made for this exercise 
 
 **Question 2** : The data directory you downloaded contains a sub-directory called `aquaporin` with protein fasta files (.fasta) of aquaporins of in maize, rice and sorghum. Aquaporin genes are involved in water transport in different plant organs and are useful target for improving water homeostasis in crops. The directory also contains BLAST database (.p\*) and index (.fai) files for these fasta files. Using these data, write uniq statement to perform the following tasks:
@@ -20,7 +20,7 @@ These exercises are designed to further test you unix skill. To satrt with, you 
 5. Find the number of SNPs with homozygous alternate allele for both PI86046 and PI90208. Hints: alternate allele are represented by 1/1`.
 6. You have developed a biparental soybean population made from a cross between PI86046 and PI90208 and have identified a QTL controlling yield located between 35 Mb - 45 Mb on chromosome 3. Extract all the SNPs that are polymorphic (different) between PI86046 and PI90208 that use can use to develop markers. `awk`
 
-# **Python programming**
+# **Python programming exercises**
 The exercises below are to test your skills in python programming. Attempt to use the Jupyter notebook for these exercises. You can also attempt to solve them in Unix
 
 **Question 4**: The data directory contains a fasta file with the genomic sequence of one of the aquaporin genes of maize (Zm00001d005421) that has 3 exons. The first, second and third exons span the 133rd – 756th, 2702nd – 2842nd and 2940th – 3053rd characters, respectively. Write python statements in the jupyter notebook that will perform the following task:
